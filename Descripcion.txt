@@ -1,0 +1,6 @@
+Local storage
+
+Un proyecto en el que se guarda informacion o "tweets"
+al oprimir un boton en el local storage,
+ por lo que persiste a pesar de recargar la pagina.
+Ademas pueden eliminarse individualmente.
